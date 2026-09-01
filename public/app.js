@@ -159,6 +159,7 @@ function renderShell() {
         </div>
         <div id="nav"></div>
         <div class="sidebar-footer">
+          <button class="btn btn-outline" id="btn-manual" style="width:100%;color:white;border-color:rgba(255,255,255,0.3);margin-bottom:8px;">📘 Manual de uso</button>
           <div class="user-name">${state.usuario.nombre}</div>
           <div class="user-doc">@${state.usuario.usuario}</div>
           <button class="btn btn-outline" id="btn-logout" style="width:100%;color:white;border-color:rgba(255,255,255,0.3)">Cerrar sesión</button>
@@ -178,6 +179,7 @@ function renderShell() {
   });
 
   document.getElementById("btn-logout").addEventListener("click", logout);
+  document.getElementById("btn-manual").addEventListener("click", abrirManual);
 
   const main = document.getElementById("main");
   if (state.vista === "registro") renderRegistro(main);
@@ -203,21 +205,39 @@ async function renderRegistro(main) {
   let fecha = new Date().toISOString().slice(0, 10);
   let registradosHoy = [];
 
+  const regionales = [...new Set(ipsList.map(i => i.regional).filter(Boolean))].sort();
+
   main.innerHTML = `
     <h2>Registro de Ocupación</h2>
     <p class="desc">Registra la ocupación diaria de camas por IPS y tipo de estancia.</p>
     <div id="reg-msg"></div>
     <div class="card">
-      <div class="grid-2">
+      <div class="grid-3">
         <div class="field">
           <label>Fecha</label>
           <input type="date" id="reg-fecha" value="${fecha}" />
         </div>
         <div class="field">
+          <label>Regional</label>
+          <select id="reg-regional">
+            <option value="">Selecciona...</option>
+            ${regionales.map(r => `<option value="${r}">${r}</option>`).join("")}
+          </select>
+        </div>
+        <div class="field">
+          <label>Zonal</label>
+          <select id="reg-zonal"><option value="">Todas</option></select>
+        </div>
+      </div>
+      <div class="grid-2">
+        <div class="field">
+          <label>Municipio</label>
+          <select id="reg-municipio"><option value="">Todos</option></select>
+        </div>
+        <div class="field">
           <label>IPS</label>
           <select id="reg-ips">
-            <option value="">Selecciona una IPS…</option>
-            ${ipsList.map(i => `<option value="${i.cod}">${i.nombre} (${i.municipio})</option>`).join("")}
+            <option value="">Selecciona primero la regional…</option>
           </select>
         </div>
       </div>
@@ -226,8 +246,46 @@ async function renderRegistro(main) {
     <div class="card" id="reg-form-card" style="display:none;"></div>
   `;
 
+  const selRegional = document.getElementById("reg-regional");
+  const selZonal = document.getElementById("reg-zonal");
+  const selMunicipio = document.getElementById("reg-municipio");
+  const selIps = document.getElementById("reg-ips");
+
+  function ipsFiltradas() {
+    const r = selRegional.value, z = selZonal.value, m = selMunicipio.value;
+    return ipsList.filter(i =>
+      (!r || i.regional === r) && (!z || i.zonal === z) && (!m || i.municipio === m)
+    );
+  }
+
+  function refrescarZonalYMunicipio() {
+    const r = selRegional.value;
+    const base = ipsList.filter(i => !r || i.regional === r);
+    const zonales = [...new Set(base.map(i => i.zonal).filter(Boolean))].sort();
+    const municipios = [...new Set(base.map(i => i.municipio).filter(Boolean))].sort();
+    selZonal.innerHTML = `<option value="">Todas</option>` + zonales.map(z => `<option value="${z}">${z}</option>`).join("");
+    selMunicipio.innerHTML = `<option value="">Todos</option>` + municipios.map(m => `<option value="${m}">${m}</option>`).join("");
+  }
+
+  function refrescarIps() {
+    const filtradas = ipsFiltradas();
+    if (!selRegional.value) {
+      selIps.innerHTML = `<option value="">Selecciona primero la regional…</option>`;
+      selIps.disabled = true;
+    } else {
+      selIps.disabled = false;
+      selIps.innerHTML = `<option value="">Selecciona una IPS… (${filtradas.length})</option>` +
+        filtradas.map(i => `<option value="${i.cod}">${i.nombre} (${i.municipio})</option>`).join("");
+    }
+  }
+
+  selRegional.addEventListener("change", () => { refrescarZonalYMunicipio(); refrescarIps(); });
+  selZonal.addEventListener("change", refrescarIps);
+  selMunicipio.addEventListener("change", refrescarIps);
+  refrescarIps();
+
   document.getElementById("reg-fecha").addEventListener("change", (e) => { fecha = e.target.value; cargarChecklist(); });
-  document.getElementById("reg-ips").addEventListener("change", (e) => {
+  selIps.addEventListener("change", (e) => {
     ipsSeleccionada = ipsList.find(i => i.cod === e.target.value) || null;
     cargarChecklist();
   });
@@ -266,7 +324,8 @@ async function renderRegistro(main) {
 function renderFormularioCenso(card, ips, fecha, pendientes) {
   card.innerHTML = `
     <h3>Nuevo registro — ${ips.nombre}</h3>
-    <div class="grid-2" style="margin-bottom:14px;">
+    <div class="grid-3" style="margin-bottom:14px;">
+      <div class="field"><label>Zonal</label><div style="padding:10px 12px;background:var(--gris-100);border-radius:8px;font-size:14px;">${ips.zonal || "—"}</div></div>
       <div class="field"><label>Ámbito</label><div style="padding:10px 12px;background:var(--gris-100);border-radius:8px;font-size:14px;">${ips.ambito || "—"}</div></div>
       <div class="field"><label>Líder</label><div style="padding:10px 12px;background:var(--gris-100);border-radius:8px;font-size:14px;">${ips.lider || "—"}</div></div>
     </div>
@@ -338,13 +397,26 @@ function renderFormularioCenso(card, ips, fecha, pendientes) {
 // ================= TABLA =================
 async function renderTabla(main) {
   main.innerHTML = `<div class="spinner">Cargando registros…</div>`;
-  const rows = await api("/censos");
+  const ipsList = await ensureIpsList();
+  let rows = await api("/censos");
+
+  const regionales = [...new Set(ipsList.map(i => i.regional).filter(Boolean))].sort();
+  const hoy = new Date().toISOString().slice(0, 10);
 
   main.innerHTML = `
     <h2>Tabla de Ocupación</h2>
     <p class="desc">${state.permisos.puedeEditarTodo ? "Todos los registros de la red." : "Tus registros."}</p>
     <div id="tabla-msg"></div>
     <div class="card">
+      <div class="toolbar">
+        <input type="date" id="tf-desde" title="Desde" />
+        <input type="date" id="tf-hasta" title="Hasta" value="${hoy}" />
+        <select id="tf-regional"><option value="">Todas las regionales</option>${regionales.map(r => `<option value="${r}">${r}</option>`).join("")}</select>
+        <select id="tf-tipo"><option value="">Todos los tipos</option>${TIPOS_ESTANCIA.map(t => `<option value="${t.key}">${t.label}</option>`).join("")}</select>
+        <input type="text" id="tf-buscar" placeholder="Buscar IPS…" />
+        <button class="btn btn-secondary" id="btn-filtrar">Filtrar</button>
+        <button class="btn btn-outline" id="btn-csv">⬇ Descargar CSV</button>
+      </div>
       <div style="overflow-x:auto;">
         <table>
           <thead>
@@ -357,12 +429,34 @@ async function renderTabla(main) {
           <tbody id="tabla-body"></tbody>
         </table>
       </div>
-      ${rows.length === 0 ? `<div class="empty-state">No hay registros aún.</div>` : ""}
+      <div id="tabla-empty"></div>
     </div>
   `;
 
+  document.getElementById("btn-filtrar").addEventListener("click", async () => {
+    const params = new URLSearchParams();
+    const desde = document.getElementById("tf-desde").value;
+    const hasta = document.getElementById("tf-hasta").value;
+    const regional = document.getElementById("tf-regional").value;
+    if (desde) params.set("fechaInicio", desde);
+    if (hasta) params.set("fechaFin", hasta);
+    if (regional) params.set("regional", regional);
+    rows = await api(`/censos?${params.toString()}`);
+    const tipo = document.getElementById("tf-tipo").value;
+    const q = document.getElementById("tf-buscar").value.toLowerCase();
+    const filtradas = rows.filter(r => (!tipo || r.tipo_estancia === tipo) && (!q || r.ips_nombre.toLowerCase().includes(q)));
+    pintarTabla(filtradas);
+  });
+
+  document.getElementById("btn-csv").addEventListener("click", () => descargarCSV(rows));
+
+  pintarTabla(rows);
+
+  function pintarTabla(data) {
   const tbody = document.getElementById("tabla-body");
-  rows.forEach(r => {
+  tbody.innerHTML = "";
+  document.getElementById("tabla-empty").innerHTML = data.length === 0 ? `<div class="empty-state">No hay registros con esos filtros.</div>` : "";
+  data.forEach(r => {
     const tr = document.createElement("tr");
     const sobreocupado = r.ocupacion_ips > r.camas_habilitadas;
     const puedeEditarFila = state.permisos.puedeEditarTodo || r.usuario_id === state.usuario.id;
@@ -389,7 +483,7 @@ async function renderTabla(main) {
 
   tbody.querySelectorAll("[data-edit]").forEach(btn => {
     btn.addEventListener("click", () => {
-      const row = rows.find(r => r.id === Number(btn.dataset.edit));
+      const row = data.find(r => r.id === Number(btn.dataset.edit));
       abrirModalEdicion(row);
     });
   });
@@ -404,6 +498,25 @@ async function renderTabla(main) {
       }
     });
   });
+  } // fin pintarTabla
+}
+
+function descargarCSV(rows) {
+  const headers = ["Fecha", "IPS", "Regional", "Ambito", "Tipo estancia", "Poblacion", "Camas habilitadas", "Ocupacion IPS", "Ocupacion Famisanar", "Camas disponibles", "Registrado por"];
+  const escape = (v) => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  const lines = [headers.join(",")];
+  rows.forEach(r => {
+    lines.push([r.fecha, r.ips_nombre, r.regional, r.ambito, r.tipo_estancia, r.poblacion, r.camas_habilitadas, r.ocupacion_ips, r.ocupacion_famisanar, r.camas_disponibles, r.usuario_nombre].map(escape).join(","));
+  });
+  const blob = new Blob(["\uFEFF" + lines.join("\n")], { type: "text/csv;charset=utf-8;" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = `censo-ocupacion-camas-${new Date().toISOString().slice(0, 10)}.csv`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
 }
 
 function abrirModalEdicion(row) {
@@ -769,4 +882,85 @@ function abrirModalIps(ips, main) {
       msg.innerHTML = `<div class="error-msg">${err.message}</div>`;
     }
   });
+}
+
+// ================= MANUAL DE USO =================
+const MANUAL_TABS = [
+  { key: "modulos", label: "Módulos" },
+  { key: "campos", label: "Campos" },
+  { key: "registro", label: "Cómo registrar" },
+  { key: "perfiles", label: "Perfiles" },
+];
+
+const MANUAL_CONTENT = {
+  modulos: `
+    <div style="margin-bottom:14px;"><p style="font-weight:600;color:var(--gris-800);margin:0 0 4px;">Registro de Ocupación</p>
+    <p style="margin:0;">Aquí el auditor digita el censo diario: selecciona Regional, luego la IPS, y el sistema completa automáticamente Zonal, Ámbito y Líder. Después elige el Tipo de estancia y, si aplica, la Población. Finalmente ingresa cuántas camas ocupa la IPS y cuántas corresponden a pacientes Famisanar.</p></div>
+    <div style="margin-bottom:14px;"><p style="font-weight:600;color:var(--gris-800);margin:0 0 4px;">Tabla de Ocupación</p>
+    <p style="margin:0;">Lista todos los registros guardados, con filtros por fecha, regional, tipo de estancia y búsqueda por IPS. Desde aquí se pueden editar o eliminar registros (según el perfil) y descargar el reporte en CSV.</p></div>
+    <div style="margin-bottom:14px;"><p style="font-weight:600;color:var(--gris-800);margin:0 0 4px;">Dashboard</p>
+    <p style="margin:0;">Resume la información en tarjetas: cuántas camas habilitadas/ocupadas/disponibles hay, el % de ocupación de la IPS y de Famisanar, y el detalle por tipo de estancia y regional para el día consultado.</p></div>
+    <div><p style="font-weight:600;color:var(--gris-800);margin:0 0 4px;">Administración</p>
+    <p style="margin:0;">Permite gestionar usuarios (restablecer contraseñas, activar/desactivar) y actualizar la base maestra de IPS, ya sea subiendo los Excel oficiales o editando una IPS manualmente. Solo visible para Coordinador/Supervisor y Administrador.</p></div>
+  `,
+  campos: `
+    <p><b>Regional / Zonal / Municipio:</b> división geográfica y administrativa de las IPS dentro de la red Famisanar.</p>
+    <p><b>Ámbito:</b> clasificación de la IPS según su tipo de atención (Hospitalización, Urgencias, Crónico o Salud Mental). Viene precargado desde la base maestra de IPS.</p>
+    <p><b>Líder:</b> persona de Famisanar responsable de la gestión en salud de esa IPS. Se asigna automáticamente según la IPS.</p>
+    <p><b>Tipo de estancia:</b> UCI, Intermedio, Hospitalización u Observación.</p>
+    <p><b>Población:</b> solo aplica a UCI e Intermedio: Adulto, Pediátrico o Neonato.</p>
+    <p><b>Camas habilitadas:</b> capacidad instalada de la IPS para ese tipo de estancia y población.</p>
+    <p><b>Ocupación IPS:</b> total de camas ocupadas en la IPS para ese tipo de estancia, sin importar la EPS del paciente. Puede ser igual o mayor a las camas habilitadas (sobreocupación).</p>
+    <p><b>Ocupación Famisanar:</b> de esas camas ocupadas, cuántas corresponden a pacientes afiliados a Famisanar. Nunca puede ser mayor a la Ocupación IPS.</p>
+    <p><b>Camas disponibles:</b> camas habilitadas menos la ocupación de la IPS. Nunca se muestra en negativo: si hay sobreocupación, queda en 0.</p>
+  `,
+  registro: `
+    <ol style="padding-left:18px;margin:0;">
+      <li style="margin-bottom:6px;">Selecciona la Regional.</li>
+      <li style="margin-bottom:6px;">Opcionalmente filtra por Zonal o Municipio para encontrar la IPS más rápido.</li>
+      <li style="margin-bottom:6px;">Busca y selecciona la IPS. Zonal, Ámbito y Líder se completan solos.</li>
+      <li style="margin-bottom:6px;">Un panel muestra el progreso de esa IPS para el día: qué tipos de estancia y población ya se registraron y cuáles faltan.</li>
+      <li style="margin-bottom:6px;">Elige el Tipo de estancia y, si aplica, la Población.</li>
+      <li style="margin-bottom:6px;">Ingresa las camas habilitadas, la Ocupación IPS y la Ocupación Famisanar. El sistema calcula las camas disponibles.</li>
+      <li style="margin-bottom:6px;">Guarda. Si intentas registrar la misma IPS, tipo de estancia y población dos veces el mismo día, el sistema lo bloquea.</li>
+    </ol>
+  `,
+  perfiles: `
+    <p><b>1. Consulta:</b> puede visualizar información, pero no modificarla ni descargar reportes.</p>
+    <p><b>2. Consulta y Reportes:</b> puede consultar información y descargar el CSV de la Tabla.</p>
+    <p><b>3. Digitador / Auditor:</b> puede registrar información y editar sus propios registros.</p>
+    <p><b>4. Coordinador / Supervisor:</b> puede ver y editar todos los registros, y actualizar la base de IPS.</p>
+    <p><b>5. Administrador:</b> control total — incluye eliminar registros y administrar usuarios.</p>
+  `,
+};
+
+function abrirManual() {
+  let tabActiva = "modulos";
+  const backdrop = document.createElement("div");
+  backdrop.className = "modal-backdrop";
+  backdrop.innerHTML = `
+    <div class="modal" style="max-width:640px;max-height:80vh;display:flex;flex-direction:column;">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+        <h3 style="margin:0;">Manual de uso — Censo Ocupación de Camas</h3>
+        <button class="icon-btn" id="manual-cerrar">✕</button>
+      </div>
+      <div id="manual-tabs" style="display:flex;gap:4px;border-bottom:1px solid var(--gris-200);margin-bottom:14px;overflow-x:auto;"></div>
+      <div id="manual-body" style="overflow-y:auto;font-size:13px;color:var(--gris-600);line-height:1.6;"></div>
+    </div>
+  `;
+  document.body.appendChild(backdrop);
+  document.getElementById("manual-cerrar").addEventListener("click", () => backdrop.remove());
+  backdrop.addEventListener("click", (e) => { if (e.target === backdrop) backdrop.remove(); });
+
+  function pintarManual() {
+    const tabsBox = document.getElementById("manual-tabs");
+    tabsBox.innerHTML = MANUAL_TABS.map(t => `
+      <button class="btn ${tabActiva === t.key ? "btn-primary" : "btn-outline"}" data-tab="${t.key}" style="font-size:12px;padding:7px 12px;white-space:nowrap;">${t.label}</button>
+    `).join("");
+    tabsBox.querySelectorAll("[data-tab]").forEach(btn => {
+      btn.addEventListener("click", () => { tabActiva = btn.dataset.tab; pintarManual(); });
+    });
+    document.getElementById("manual-body").innerHTML = MANUAL_CONTENT[tabActiva];
+  }
+  pintarManual();
 }
