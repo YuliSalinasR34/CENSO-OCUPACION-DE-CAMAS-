@@ -1,0 +1,7778 @@
+[
+  {
+    "cod": "110012507001",
+    "nombre": "ADMINISTRADORA CLINICA LA COLINA SAS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 7.0,
+        "Pediatrico": 7.0,
+        "Neonato": 4.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 1.0,
+        "Neonato": 5.0
+      },
+      "Hospitalizacion": {
+        "General": 136.0
+      },
+      "Observacion": {
+        "General": 35.0
+      }
+    }
+  },
+  {
+    "cod": "110010559701",
+    "nombre": "CENTRO DE ATENCIÓN EN SALUD CAFAM CALLE 51",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 4.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 53.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010905601",
+    "nombre": "CENTRO INTEGRAL DE INNOVACIÓN Y TECNOLOGÍA CLÍNICA ONKOS S.A.S",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 11.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 53.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010817151",
+    "nombre": "CLINICA COLSUBSIDIO CALLE 100",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 11.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 48.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010817103",
+    "nombre": "CLINICA COLSUBSIDIO CIUDAD ROMA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 20.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 101.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010793901",
+    "nombre": "CLINICA DE LA MUJER",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 12.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 0.0,
+        "Neonato": 10.0
+      },
+      "Hospitalizacion": {
+        "General": 48.0
+      },
+      "Observacion": {
+        "General": 9.0
+      }
+    }
+  },
+  {
+    "cod": "110010936101",
+    "nombre": "CLINICA DE MARLY",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 2.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 4.0
+      },
+      "Hospitalizacion": {
+        "General": 104.0
+      },
+      "Observacion": {
+        "General": 31.0
+      }
+    }
+  },
+  {
+    "cod": "110010959901",
+    "nombre": "CLINICA DEL COUNTRY IPS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 9.0,
+        "Pediatrico": 6.0,
+        "Neonato": 6.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 6.0,
+        "Neonato": 10.0
+      },
+      "Hospitalizacion": {
+        "General": 215.0
+      },
+      "Observacion": {
+        "General": 50.0
+      }
+    }
+  },
+  {
+    "cod": "110010966601",
+    "nombre": "CLINICA DEL OCCIDENTE S.A.",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 34.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 20.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 202.0
+      },
+      "Observacion": {
+        "General": 40.0
+      }
+    }
+  },
+  {
+    "cod": "110010817102",
+    "nombre": "CLINICA INFANTIL COLSUBSIDIO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 5.27,
+        "Pediatrico": 13.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.73,
+        "Pediatrico": 7.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 158.0
+      },
+      "Observacion": {
+        "General": 17.0
+      }
+    }
+  },
+  {
+    "cod": "110010910401",
+    "nombre": "CLINICA JUAN N CORPAS LTDA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 32.0,
+        "Pediatrico": 0.0,
+        "Neonato": 6.0
+      },
+      "Intermedio": {
+        "Adulto": 0.53,
+        "Pediatrico": 0.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 106.0
+      },
+      "Observacion": {
+        "General": 47.0
+      }
+    }
+  },
+  {
+    "cod": "110012529701",
+    "nombre": "CLINICA LOS NOGALES SAS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 36.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 11.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 194.0
+      },
+      "Observacion": {
+        "General": 44.0
+      }
+    }
+  },
+  {
+    "cod": "110010822201",
+    "nombre": "CLINICA MATERNO INFANTIL EUSALUD",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.6,
+        "Pediatrico": 0.0,
+        "Neonato": 14.0
+      },
+      "Intermedio": {
+        "Adulto": 1.23,
+        "Pediatrico": 0.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 36.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012215001",
+    "nombre": "CLINICA MEDICAL S.A.S.",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 16.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 13.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 129.0
+      },
+      "Observacion": {
+        "General": 28.0
+      }
+    }
+  },
+  {
+    "cod": "110010752101",
+    "nombre": "CLINICA NUEVA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 9.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 80.0
+      },
+      "Observacion": {
+        "General": 15.0
+      }
+    }
+  },
+  {
+    "cod": "110010895201",
+    "nombre": "CLINICA PALERMO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 24.0,
+        "Pediatrico": 0.0,
+        "Neonato": 11.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 0.0,
+        "Neonato": 6.0
+      },
+      "Hospitalizacion": {
+        "General": 143.0
+      },
+      "Observacion": {
+        "General": 76.0
+      }
+    }
+  },
+  {
+    "cod": "110012544101",
+    "nombre": "CLINICA SAN FRANCISCO DE ASIS S.A.S",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 12.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 12.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 49.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110013627802",
+    "nombre": "CLINICA SANTA MONICA DE BOGOTA SAS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 40.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 78.0
+      },
+      "Observacion": {
+        "General": 15.0
+      }
+    }
+  },
+  {
+    "cod": "110010817162",
+    "nombre": "COLSUBSIDIO CLÍNICA 127",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 9.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 45.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010922401",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL UNIVERSITARIO DE LA SAMARITANA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 21.0,
+        "Pediatrico": 0.0,
+        "Neonato": 7.0
+      },
+      "Intermedio": {
+        "Adulto": 9.0,
+        "Pediatrico": 0.0,
+        "Neonato": 16.0
+      },
+      "Hospitalizacion": {
+        "General": 168.0
+      },
+      "Observacion": {
+        "General": 67.0
+      }
+    }
+  },
+  {
+    "cod": "110010822203",
+    "nombre": "EUSALUD CLINICA DE TRAUMATOLOGIA Y ORTOPEDIA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 30.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010644701",
+    "nombre": "FUNDACION ABOOD SHAIO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 62.0,
+        "Pediatrico": 7.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 1.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 175.0
+      },
+      "Observacion": {
+        "General": 38.0
+      }
+    }
+  },
+  {
+    "cod": "110010911101",
+    "nombre": "FUNDACION CARDIO INFANTIL INSTITUTO DE CARDIOLOGIA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 59.0,
+        "Pediatrico": 31.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 1.0,
+        "Neonato": 6.0
+      },
+      "Hospitalizacion": {
+        "General": 235.0
+      },
+      "Observacion": {
+        "General": 132.0
+      }
+    }
+  },
+  {
+    "cod": "110010568101",
+    "nombre": "FUNDACION HOSPITAL DE LA MISERICORDIA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 2.77,
+        "Pediatrico": 70.0,
+        "Neonato": 11.0
+      },
+      "Intermedio": {
+        "Adulto": 2.6,
+        "Pediatrico": 28.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 319.0
+      },
+      "Observacion": {
+        "General": 31.0
+      }
+    }
+  },
+  {
+    "cod": "110011613301",
+    "nombre": "FUNDACION HOSPITAL INFANTIL UNIVERSITARIO DE SAN JOSE",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 13.0,
+        "Pediatrico": 7.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 1.0,
+        "Neonato": 5.0
+      },
+      "Hospitalizacion": {
+        "General": 146.0
+      },
+      "Observacion": {
+        "General": 51.0
+      }
+    }
+  },
+  {
+    "cod": "110010413101",
+    "nombre": "FUNDACION HOSPITAL SAN CARLOS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 30.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 12.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 223.0
+      },
+      "Observacion": {
+        "General": 45.0
+      }
+    }
+  },
+  {
+    "cod": "110010561801",
+    "nombre": "FUNDACION SANTA FE DE BOGOTA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 33.0,
+        "Pediatrico": 3.0,
+        "Neonato": 12.0
+      },
+      "Intermedio": {
+        "Adulto": 14.0,
+        "Pediatrico": 8.0,
+        "Neonato": 11.0
+      },
+      "Hospitalizacion": {
+        "General": 285.0
+      },
+      "Observacion": {
+        "General": 64.0
+      }
+    }
+  },
+  {
+    "cod": "110013029654",
+    "nombre": "HOSPITAL BOSA II NIVEL E.S.E.",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 149.0
+      },
+      "Observacion": {
+        "General": 20.0
+      }
+    }
+  },
+  {
+    "cod": "110013029601",
+    "nombre": "HOSPITAL OCCIDENTE DE KENNEDY III NIVEL ESE",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 23.0,
+        "Pediatrico": 1.0,
+        "Neonato": 14.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 1.0,
+        "Neonato": 32.0
+      },
+      "Hospitalizacion": {
+        "General": 208.0
+      },
+      "Observacion": {
+        "General": 67.0
+      }
+    }
+  },
+  {
+    "cod": "110010566801",
+    "nombre": "HOSPITAL UNIVERSITARIO CLINICA SAN RAFAEL",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 40.0,
+        "Pediatrico": 8.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 2.0,
+        "Neonato": 12.0
+      },
+      "Hospitalizacion": {
+        "General": 246.0
+      },
+      "Observacion": {
+        "General": 102.0
+      }
+    }
+  },
+  {
+    "cod": "110010945601",
+    "nombre": "HOSPITAL UNIVERSITARIO SAN IGNACIO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 14.0,
+        "Pediatrico": 6.0,
+        "Neonato": 8.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 2.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 214.0
+      },
+      "Observacion": {
+        "General": 56.0
+      }
+    }
+  },
+  {
+    "cod": "110010825801",
+    "nombre": "INSTITUTO DE ORTOPEDIA INFANTIL ROOSEVELT",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.33,
+        "Pediatrico": 6.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 1.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 35.0
+      },
+      "Observacion": {
+        "General": 8.0
+      }
+    }
+  },
+  {
+    "cod": "110010606501",
+    "nombre": "INSTITUTO NACIONAL DE CANCEROLOGIA - EMPRESA SOCIAL DEL ESTADO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 17.0,
+        "Pediatrico": 6.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 4.0,
+        "Pediatrico": 2.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 173.0
+      },
+      "Observacion": {
+        "General": 36.0
+      }
+    }
+  },
+  {
+    "cod": "110013390301",
+    "nombre": "LOSCOBOS MEDICAL CENTER SAS - LOSCOBOS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 23.0,
+        "Pediatrico": 11.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 1.0,
+        "Neonato": 2.0
+      },
+      "Hospitalizacion": {
+        "General": 208.0
+      },
+      "Observacion": {
+        "General": 42.0
+      }
+    }
+  },
+  {
+    "cod": "110012688701",
+    "nombre": "NATIONAL CLINICS CENTENARIO SAS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 30.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 9.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 111.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110013029407",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD AMBULATORIA TUNJUELITO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 37.0
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "110013029114",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD CENTRO DE SERVICIOS ESPECIALIZADO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 6.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 4.0
+      },
+      "Hospitalizacion": {
+        "General": 112.0
+      },
+      "Observacion": {
+        "General": 62.0
+      }
+    }
+  },
+  {
+    "cod": "110013029123",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD CHAPINERO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 28.0
+      },
+      "Observacion": {
+        "General": 13.0
+      }
+    }
+  },
+  {
+    "cod": "110013028919",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD CHIRCALES",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.03
+      },
+      "Observacion": {
+        "General": 6.0
+      }
+    }
+  },
+  {
+    "cod": "110013029401",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD EL TUNAL",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 36.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 98.0
+      },
+      "Observacion": {
+        "General": 24.0
+      }
+    }
+  },
+  {
+    "cod": "110013029103",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD ENGATIVÁ CALLE 80",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 4.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 10.0
+      },
+      "Hospitalizacion": {
+        "General": 141.0
+      },
+      "Observacion": {
+        "General": 46.0
+      }
+    }
+  },
+  {
+    "cod": "110013029625",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD FONTIBÓN",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 65.0
+      },
+      "Observacion": {
+        "General": 25.0
+      }
+    }
+  },
+  {
+    "cod": "110013028917",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD JORGE ELIECER GAITAN",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 34.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "110013029416",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD LA ESTRELLA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 50.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110013028928",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD MATERNO INFANTIL",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.5,
+        "Pediatrico": 0.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 0.2,
+        "Pediatrico": 0.0,
+        "Neonato": 30.0
+      },
+      "Hospitalizacion": {
+        "General": 34.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110013029402",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD MEISSEN",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 20.0,
+        "Pediatrico": 8.0,
+        "Neonato": 20.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 4.0,
+        "Neonato": 15.0
+      },
+      "Hospitalizacion": {
+        "General": 276.0
+      },
+      "Observacion": {
+        "General": 33.0
+      }
+    }
+  },
+  {
+    "cod": "110013029603",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD PATIO BONITO TINTAL",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.4,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.07,
+        "Pediatrico": 3.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 80.0
+      },
+      "Observacion": {
+        "General": 21.0
+      }
+    }
+  },
+  {
+    "cod": "110013028916",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD SAMPER MENDOZA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 12.0
+      },
+      "Observacion": {
+        "General": 4.0
+      }
+    }
+  },
+  {
+    "cod": "110013028902",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD SAN BLAS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 120.0
+      },
+      "Observacion": {
+        "General": 27.0
+      }
+    }
+  },
+  {
+    "cod": "110013028901",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD SANTA CLARA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 24.0,
+        "Pediatrico": 8.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 8.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 149.0
+      },
+      "Observacion": {
+        "General": 81.0
+      }
+    }
+  },
+  {
+    "cod": "110013029431",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD SANTA LIBRADA I",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 12.0
+      },
+      "Observacion": {
+        "General": 6.0
+      }
+    }
+  },
+  {
+    "cod": "110013029101",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD SIMÓN BOLÍVAR",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 32.0,
+        "Pediatrico": 11.0,
+        "Neonato": 9.0
+      },
+      "Intermedio": {
+        "Adulto": 26.0,
+        "Pediatrico": 1.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 205.0
+      },
+      "Observacion": {
+        "General": 85.0
+      }
+    }
+  },
+  {
+    "cod": "110013029430",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD USME",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 14.0
+      },
+      "Observacion": {
+        "General": 4.0
+      }
+    }
+  },
+  {
+    "cod": "110013028929",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD VICTORIA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 16.0,
+        "Pediatrico": 0.0,
+        "Neonato": 6.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 6.0
+      },
+      "Hospitalizacion": {
+        "General": 81.0
+      },
+      "Observacion": {
+        "General": 32.0
+      }
+    }
+  },
+  {
+    "cod": "110013029428",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD VISTA HERMOSA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 42.0
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "110012147701",
+    "nombre": "UNIDAD MEDICA ONCOLOGICA ONCOLIFE IPS SAS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.17,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 16.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 7.77
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010559704",
+    "nombre": "CENTRO DE ATENCIÓN EN SALUD CAFAM FLORESTA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "2. URGENCIAS",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 23.63
+      },
+      "Observacion": {
+        "General": 35.0
+      }
+    }
+  },
+  {
+    "cod": "110010559711",
+    "nombre": "CENTRO DE ATENCIÓN EN SALUD CAFAM SUBA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "2. URGENCIAS",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 5.8
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "110012894204",
+    "nombre": "HEALTH & LIFE IPS SAS SEDE CHAPINERO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "3. CRONICO",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 49.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010262202",
+    "nombre": "SOCIEDAD DE ENFERMERAS PROFESIONALES SAS - SEDE 2",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "3. CRONICO",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.03,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 26.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010262201",
+    "nombre": "SOCIEDAD DE ENFERMERAS PROFESIONALES SAS - SEP SAS - SEDE 1",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "3. CRONICO",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.07,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.03,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 67.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010572501",
+    "nombre": "CLINICA DE NUESTRA SEÑORA DE LA PAZ",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 282.0
+      },
+      "Observacion": {
+        "General": 16.0
+      }
+    }
+  },
+  {
+    "cod": "110013462701",
+    "nombre": "FUNDACION LA LUZ - CENTRO NACIONAL PARA EL TRATAMIENTO DE LA DROGADICCION",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 75.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010965202",
+    "nombre": "FUNDACION PARA LA  SALUD LA BIOETICA Y EL MEDIO AMBIENTE  FUNSABIAM",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 46.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012894202",
+    "nombre": "HEALTH & LIFE IPS SAS SEDE JJ VARGAS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 34.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012894205",
+    "nombre": "HEALTH & LIFE IPS SAS SEDE MONTEVIDEO",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 191.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110013924101",
+    "nombre": "MENTAL HEALTH IPS SAS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 52.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012208205",
+    "nombre": "NP MEDICAL IPS FONTIBÓN",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 74.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012208203",
+    "nombre": "NP MEDICAL IPS SAMPER",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 50.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012208204",
+    "nombre": "NP MEDICAL IPS SAS SEDE SUR",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 42.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110013029102",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD FRAY BARTOLOMÉ DE LAS CASAS",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 50.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110013029602",
+    "nombre": "UNIDAD DE SERVICIOS DE SALUD MENTAL FLORALIA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 36.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110010867901",
+    "nombre": "SOCIEDAD DE CIRUGÍA DE BOGOTÁ - HOSPITAL DE SAN JOSÉ",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.05
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "110012147704",
+    "nombre": "CLINICA ONCOLIFE SEDE CALLE 27",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 11.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012894210",
+    "nombre": "HEALTH & LIFE IPS SEDE TOBERIN",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "3. CRONICO",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 64.81
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012128701",
+    "nombre": "MEDICINA INTEGRAL DE ESPECIALIDADES MEIDE S.A.S.",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "3. CRONICO",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012527502",
+    "nombre": "EMMANUEL INSTITUTO DE REHABILITACION Y HABILITACION INFANTIL S.A.S. - BOGOTA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 19.57
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "110012894209",
+    "nombre": "HEALTH & LIFE IPS SAS SEDE MODELIA",
+    "regional": "BOGOTA",
+    "zonal": "BOGOTA",
+    "municipio": "BOGOTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "DIANA RITA CHICA FRANCO",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 20.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "257850246501",
+    "nombre": "CENTRO DE INVESTIGACIONES DEL SISTEMA NERVIOSO GRUPO CISNE LTDA - CISNE CAMPO VICTORIA",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "TABIO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "251750002001",
+    "nombre": "E.S.E. HOSPITAL SAN ANTONIO DE CHIA - (251750002001)",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "CHÍA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "156460078701",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SANTA MARTA DE SAMACA",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "SAMACÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 15.0
+      }
+    }
+  },
+  {
+    "cod": "154690082301",
+    "nombre": "HOSPITAL REGIONAL DE MONIQUIRA ESE",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "MONIQUIRÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 11.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "153220108401",
+    "nombre": "HOSPITAL REGIONAL SEGUNDO NIVEL DE ATENCIÓN VALLE DE TENZA E.S.E.",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "GUATEQUE",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 11.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "500010128701",
+    "nombre": "ANGIOGRAFIA DE COLOMBIA SEDE CLÍNICA CARDIOVASCULAR",
+    "regional": "CENTRO",
+    "zonal": "META",
+    "municipio": "VILLAVICENCIO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 18.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 25.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "150010040401",
+    "nombre": "CENTRO DE CANCEROLOGÍA DE BOYACÁ SAS.",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "TUNJA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 73.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "258170385101",
+    "nombre": "CARE & HEALTH SAS",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "TOCANCIPÁ",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "251750200302",
+    "nombre": "FUNDACION GENESIS DE COLOMBIA SEDE CHIA",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "CHÍA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 34.61
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "251260216901",
+    "nombre": "CENTRO MEDICO SAN LUIS CLINICA QUIRURGICA S.A.S",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "CAJICÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 19.0
+      },
+      "Observacion": {
+        "General": 16.0
+      }
+    }
+  },
+  {
+    "cod": "253070020816",
+    "nombre": "CLINICA  COLSUBSIDIO GIRARDOT",
+    "regional": "CENTRO",
+    "zonal": "ALTO MAGDALENA",
+    "municipio": "GIRARDOT",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 18.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 18.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 88.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "251750013201",
+    "nombre": "CLINICA CHIA S.A",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "CHÍA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 3.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 6.0
+      },
+      "Hospitalizacion": {
+        "General": 23.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "157590080301",
+    "nombre": "CLINICA EL LAGUITO S.A",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "SOGAMOSO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 52.0
+      },
+      "Observacion": {
+        "General": 11.0
+      }
+    }
+  },
+  {
+    "cod": "150010159601",
+    "nombre": "CLINICA MEDILASER",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "TUNJA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 21.0,
+        "Pediatrico": 0.0,
+        "Neonato": 8.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 81.0
+      },
+      "Observacion": {
+        "General": 41.0
+      }
+    }
+  },
+  {
+    "cod": "252690509401",
+    "nombre": "CLINICA MEDILASER S.A.S.- FACATATIVA",
+    "regional": "CENTRO",
+    "zonal": "SABANA SUR",
+    "municipio": "FACATATIVÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 16.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 36.0
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "253070263101",
+    "nombre": "CLÍNICA SAN RAFAEL DUMIAN GIRARDOT",
+    "regional": "CENTRO",
+    "zonal": "ALTO MAGDALENA",
+    "municipio": "GIRARDOT",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 5.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 2.0
+      },
+      "Hospitalizacion": {
+        "General": 123.0
+      },
+      "Observacion": {
+        "General": 42.0
+      }
+    }
+  },
+  {
+    "cod": "251750005901",
+    "nombre": "CLINICA UNIVERSIDAD DE LA SABANA",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "CHÍA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 12.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 128.0
+      },
+      "Observacion": {
+        "General": 57.0
+      }
+    }
+  },
+  {
+    "cod": "500010103401",
+    "nombre": "CORPORACION CLINICA",
+    "regional": "CENTRO",
+    "zonal": "META",
+    "municipio": "VILLAVICENCIO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 20.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 9.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 141.0
+      },
+      "Observacion": {
+        "General": 84.0
+      }
+    }
+  },
+  {
+    "cod": "257540471101",
+    "nombre": "DIACOR SOACHA ZONA FRANCA SAS",
+    "regional": "CENTRO",
+    "zonal": "SUMAPAZ",
+    "municipio": "SOACHA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 27.0,
+        "Pediatrico": 0.0,
+        "Neonato": 1.0
+      },
+      "Intermedio": {
+        "Adulto": 19.0,
+        "Pediatrico": 0.0,
+        "Neonato": 14.0
+      },
+      "Hospitalizacion": {
+        "General": 155.0
+      },
+      "Observacion": {
+        "General": 41.0
+      }
+    }
+  },
+  {
+    "cod": "150010078502",
+    "nombre": "E.S.E HOSPITAL METROPOLITANO SANTIAGO DE TUNJA",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "TUNJA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 31.0
+      },
+      "Observacion": {
+        "General": 27.0
+      }
+    }
+  },
+  {
+    "cod": "253260005301",
+    "nombre": "E.S.E HOSPITAL SAN ANTONIO DE GUATAVITA",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "GUATAVITA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 4.0
+      }
+    }
+  },
+  {
+    "cod": "257540038001",
+    "nombre": "E.S.E. HOSPITAL MARIO GAITAN YANGUAS DE SOACHA - (257540038001)",
+    "regional": "CENTRO",
+    "zonal": "SUMAPAZ",
+    "municipio": "SOACHA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.93
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "255130002801",
+    "nombre": "E.S.E. HOSPITAL SAN RAFAEL DE PACHO - (255130002801)",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "PACHO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 11.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 56.0
+      },
+      "Observacion": {
+        "General": 16.0
+      }
+    }
+  },
+  {
+    "cod": "155160073201",
+    "nombre": "E.S.E. HOSPITAL SAN VICENTE DE PAÚL",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "PAIPA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 15.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "254300002101",
+    "nombre": "E.S.E.HOSPITAL SANTA MATILDE DE MADRID",
+    "regional": "CENTRO",
+    "zonal": "SABANA SUR",
+    "municipio": "MADRID",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 8.0,
+        "Pediatrico": 4.0,
+        "Neonato": 4.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 4.0,
+        "Neonato": 2.0
+      },
+      "Hospitalizacion": {
+        "General": 106.0
+      },
+      "Observacion": {
+        "General": 41.0
+      }
+    }
+  },
+  {
+    "cod": "252860252201",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO DEL ORDEN DEPARTAMENTAL HOSPITAL NUESTRA SEÑORA DE LAS MERCEDES DEL MUNICIPIO DE FUNZA",
+    "regional": "CENTRO",
+    "zonal": "SABANA SUR",
+    "municipio": "FUNZA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 20.0
+      },
+      "Observacion": {
+        "General": 19.0
+      }
+    }
+  },
+  {
+    "cod": "257580005101",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL DIVINO SALVADOR DE SOPO",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "SOPO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 17.0
+      },
+      "Observacion": {
+        "General": 14.0
+      }
+    }
+  },
+  {
+    "cod": "258430002601",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL EL SALVADOR DE UBATE",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "VILLA DE SAN DIEGO DE UBATÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 60.0
+      },
+      "Observacion": {
+        "General": 20.0
+      }
+    }
+  },
+  {
+    "cod": "155720080701",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL JOSE CAYETANO VASQUEZ",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "PUERTO BOYACÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 35.0
+      },
+      "Observacion": {
+        "General": 29.0
+      }
+    }
+  },
+  {
+    "cod": "253860004301",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL PEDRO LEON ALVAREZ DIAZ",
+    "regional": "CENTRO",
+    "zonal": "ALTO MAGDALENA",
+    "municipio": "LA MESA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 62.0
+      },
+      "Observacion": {
+        "General": 19.0
+      }
+    }
+  },
+  {
+    "cod": "151760095501",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL REGIONAL DE CHIQUINQUIRA",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "CHIQUINQUIRÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 72.0
+      },
+      "Observacion": {
+        "General": 72.0
+      }
+    }
+  },
+  {
+    "cod": "152380066401",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL REGIONAL DE DUITAMA",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "DUITAMA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 9.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.4,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 110.0
+      },
+      "Observacion": {
+        "General": 27.0
+      }
+    }
+  },
+  {
+    "cod": "157530033201",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN ANTONIO DE SOATA",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "SOATÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 9.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.27,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 30.0
+      },
+      "Observacion": {
+        "General": 6.0
+      }
+    }
+  },
+  {
+    "cod": "252690004901",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL  DE FACATATIVA",
+    "regional": "CENTRO",
+    "zonal": "SABANA SUR",
+    "municipio": "FACATATIVÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 27.0,
+        "Pediatrico": 0.0,
+        "Neonato": 8.0
+      },
+      "Intermedio": {
+        "Adulto": 18.0,
+        "Pediatrico": 0.0,
+        "Neonato": 8.0
+      },
+      "Hospitalizacion": {
+        "General": 132.0
+      },
+      "Observacion": {
+        "General": 40.0
+      }
+    }
+  },
+  {
+    "cod": "251510001601",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL DE CAQUEZA",
+    "regional": "CENTRO",
+    "zonal": "META",
+    "municipio": "CÁQUEZA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 53.0
+      },
+      "Observacion": {
+        "General": 20.0
+      }
+    }
+  },
+  {
+    "cod": "252900003601",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN RAFAEL DE FUSAGASUGA",
+    "regional": "CENTRO",
+    "zonal": "SUMAPAZ",
+    "municipio": "FUSAGASUGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 133.0
+      },
+      "Observacion": {
+        "General": 32.0
+      }
+    }
+  },
+  {
+    "cod": "150010038701",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL UNIVERSITARIO SAN RAFAEL DE TUNJA",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "TUNJA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 35.0,
+        "Pediatrico": 10.0,
+        "Neonato": 11.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 2.0,
+        "Neonato": 5.0
+      },
+      "Hospitalizacion": {
+        "General": 148.0
+      },
+      "Observacion": {
+        "General": 25.0
+      }
+    }
+  },
+  {
+    "cod": "258990299001",
+    "nombre": "ESE HOSPITAL UNIVERSITARIO DE LA SAMARITANA UNIDAD FUNCIONAL ZIPAQUIRA",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "ZIPAQUIRÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 102.0
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "257540363301",
+    "nombre": "HOSPITAL CARDIOVASCULAR DE CUNDINAMARCA S.A",
+    "regional": "CENTRO",
+    "zonal": "SUMAPAZ",
+    "municipio": "SOACHA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 27.0,
+        "Pediatrico": 10.0,
+        "Neonato": 24.0
+      },
+      "Intermedio": {
+        "Adulto": 24.0,
+        "Pediatrico": 2.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 168.0
+      },
+      "Observacion": {
+        "General": 31.0
+      }
+    }
+  },
+  {
+    "cod": "503130052201",
+    "nombre": "HOSPITAL DEPARTAMENTAL DE GRANADA. EMPRESA SOCIAL DEL ESTADO",
+    "regional": "CENTRO",
+    "zonal": "META",
+    "municipio": "GRANADA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.23,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.23,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 31.0
+      },
+      "Observacion": {
+        "General": 27.0
+      }
+    }
+  },
+  {
+    "cod": "500010052901",
+    "nombre": "HOSPITAL DEPARTAMENTAL DE VILLAVICENCIO ESE",
+    "regional": "CENTRO",
+    "zonal": "META",
+    "municipio": "VILLAVICENCIO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 28.0,
+        "Pediatrico": 4.0,
+        "Neonato": 6.0
+      },
+      "Intermedio": {
+        "Adulto": 4.0,
+        "Pediatrico": 2.0,
+        "Neonato": 12.0
+      },
+      "Hospitalizacion": {
+        "General": 274.0
+      },
+      "Observacion": {
+        "General": 90.0
+      }
+    }
+  },
+  {
+    "cod": "254730030301",
+    "nombre": "HOSPITAL MARIA AUXILIADORA EMPRESA SOCIAL DE ESTADO DEL MUNICIPIO DE MOSQUERA",
+    "regional": "CENTRO",
+    "zonal": "SABANA SUR",
+    "municipio": "MOSQUERA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 35.0
+      },
+      "Observacion": {
+        "General": 15.0
+      }
+    }
+  },
+  {
+    "cod": "157590079801",
+    "nombre": "HOSPITAL REGIONAL DE SOGAMOSO EMPRESA SOCIAL DEL ESTADO",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "SOGAMOSO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 3.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 6.0
+      },
+      "Hospitalizacion": {
+        "General": 137.0
+      },
+      "Observacion": {
+        "General": 24.0
+      }
+    }
+  },
+  {
+    "cod": "258990299020",
+    "nombre": "HOSPITAL REGIONAL DE ZIPAQUIRÁ",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "ZIPAQUIRÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 12.0,
+        "Pediatrico": 0.0,
+        "Neonato": 11.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 8.0
+      },
+      "Hospitalizacion": {
+        "General": 109.0
+      },
+      "Observacion": {
+        "General": 26.0
+      }
+    }
+  },
+  {
+    "cod": "252970003501",
+    "nombre": "IPS E.S.E.  HOSPITAL SAN FRANCISCO DE GACHETA",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "GACHETÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.73
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "253070324101",
+    "nombre": "JUNICAL MEDICAL S.A.S.",
+    "regional": "CENTRO",
+    "zonal": "ALTO MAGDALENA",
+    "municipio": "GIRARDOT",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 15.0,
+        "Pediatrico": 0.0,
+        "Neonato": 5.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 76.0
+      },
+      "Observacion": {
+        "General": 56.0
+      }
+    }
+  },
+  {
+    "cod": "258990256001",
+    "nombre": "MEINTEGRAL ZIPAQUIRA",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "ZIPAQUIRÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "500010142101",
+    "nombre": "NUEVA CLÍNICA EL BARZAL SAS",
+    "regional": "CENTRO",
+    "zonal": "META",
+    "municipio": "VILLAVICENCIO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 28.0
+      },
+      "Observacion": {
+        "General": 21.0
+      }
+    }
+  },
+  {
+    "cod": "152380109901",
+    "nombre": "SOCIEDAD CLINICA BOYACA LIMITADA",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "DUITAMA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 46.0
+      },
+      "Observacion": {
+        "General": 21.0
+      }
+    }
+  },
+  {
+    "cod": "252900011401",
+    "nombre": "SOCIEDAD MEDICO QUIRURGICA NUESTRA SEÑORA DE BELEN DE FUSAGASUGA S.A.S.",
+    "regional": "CENTRO",
+    "zonal": "SUMAPAZ",
+    "municipio": "FUSAGASUGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 32.0
+      },
+      "Observacion": {
+        "General": 18.0
+      }
+    }
+  },
+  {
+    "cod": "258990481501",
+    "nombre": "UNIDAD MEDICA ONCOLOGICA ONCOLIFE IPS SAS - ZIPAQUIRÁ",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "ZIPAQUIRÁ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 36.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "252900210401",
+    "nombre": "CIUDADELA FUNDACION LA LUZ",
+    "regional": "CENTRO",
+    "zonal": "SUMAPAZ",
+    "municipio": "FUSAGASUGA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.03,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 40.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "252690215801",
+    "nombre": "EMMANUEL INSTITUTO DE REHABILITACION Y HABILITACION INFANTIL S.A.S. - FACATATIVA",
+    "regional": "CENTRO",
+    "zonal": "SABANA SUR",
+    "municipio": "FACATATIVÁ",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 111.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "150010026601",
+    "nombre": "EMPRESA  SOCIAL DEL ESTADO CENTRO DE REHABILITACION INTEGRAL DE BOYACA",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "TUNJA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 151.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "500010165901",
+    "nombre": "IPS SALUD MENTAL MONTE SINAI",
+    "regional": "CENTRO",
+    "zonal": "META",
+    "municipio": "VILLAVICENCIO",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 34.0
+      },
+      "Observacion": {
+        "General": 29.0
+      }
+    }
+  },
+  {
+    "cod": "253070268601",
+    "nombre": "NP MEDICAL IPS SAS GIRARDOT",
+    "regional": "CENTRO",
+    "zonal": "ALTO MAGDALENA",
+    "municipio": "GIRARDOT",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.03,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 54.0
+      },
+      "Observacion": {
+        "General": 40.0
+      }
+    }
+  },
+  {
+    "cod": "157590246501",
+    "nombre": "SENTIDO DE VIDA IPS",
+    "regional": "CENTRO",
+    "zonal": "BOYACA",
+    "municipio": "SOGAMOSO",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 65.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "500010032101",
+    "nombre": "INVERSIONES CLINICA DEL META S.A.",
+    "regional": "CENTRO",
+    "zonal": "META",
+    "municipio": "VILLAVICENCIO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 15.0,
+        "Pediatrico": 5.0,
+        "Neonato": 8.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 1.0,
+        "Neonato": 5.0
+      },
+      "Hospitalizacion": {
+        "General": 67.0
+      },
+      "Observacion": {
+        "General": 48.0
+      }
+    }
+  },
+  {
+    "cod": "200010018302",
+    "nombre": "CLINICA BUENOS AIRES S.A.S.",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.01
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "80010514601",
+    "nombre": "CENTRO DE ATENCION COMPLEMENTARIA ESPECIALIZADO ALTA COMPLEJIDAD ADULTOS - CACE ALTA COMPLEJIDAD ADULTOS",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 21.0,
+        "Pediatrico": 0.0,
+        "Neonato": 15.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 5.0
+      },
+      "Hospitalizacion": {
+        "General": 119.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "130010332101",
+    "nombre": "CENTRO HOSPITALARIO SERENA DEL MAR SA",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.07,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.05,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.17
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "470010107801",
+    "nombre": "CENTROS HOSPITALARIOS DEL CARIBE S.A.S.",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "SANTA MARTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "470010153901",
+    "nombre": "CLÍNICA AVIDANTI SANTA MARTA",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "SANTA MARTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 34.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 107.0
+      },
+      "Observacion": {
+        "General": 22.0
+      }
+    }
+  },
+  {
+    "cod": "130010056801",
+    "nombre": "CLINICA BLAS DE LEZO S.A.",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 14.0,
+        "Pediatrico": 4.0,
+        "Neonato": 8.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 8.0
+      },
+      "Hospitalizacion": {
+        "General": 161.0
+      },
+      "Observacion": {
+        "General": 74.0
+      }
+    }
+  },
+  {
+    "cod": "130010008501",
+    "nombre": "CLINICA CARTAGENA DEL MAR S.A.S",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 28.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 18.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 61.0
+      },
+      "Observacion": {
+        "General": 17.0
+      }
+    }
+  },
+  {
+    "cod": "680010115701",
+    "nombre": "CLINICA CHICAMOCHA SA",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BUCARAMANGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 14.0,
+        "Pediatrico": 0.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 40.0
+      },
+      "Observacion": {
+        "General": 20.0
+      }
+    }
+  },
+  {
+    "cod": "680010426801",
+    "nombre": "CLINICA DE URGENCIAS BUCARAMANGA S.A.S",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BUCARAMANGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 11.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 1.73
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "200010033001",
+    "nombre": "CLINICA DEL CESAR S.A.",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 18.0,
+        "Pediatrico": 20.0,
+        "Neonato": 18.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 8.0,
+        "Neonato": 7.0
+      },
+      "Hospitalizacion": {
+        "General": 114.0
+      },
+      "Observacion": {
+        "General": 46.0
+      }
+    }
+  },
+  {
+    "cod": "471890021501",
+    "nombre": "CLINICA GENERAL DE CIENAGA LTDA",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "CIÉNAGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 6.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "130010204801",
+    "nombre": "CLINICA GENERAL DEL CARIBE S.A.",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "200010001801",
+    "nombre": "CLINICA INTEGRAL DE EMERGENCIAS LAURA DANIELA S.A",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 21.0,
+        "Pediatrico": 12.0,
+        "Neonato": 18.0
+      },
+      "Intermedio": {
+        "Adulto": 23.0,
+        "Pediatrico": 13.0,
+        "Neonato": 13.0
+      },
+      "Hospitalizacion": {
+        "General": 150.0
+      },
+      "Observacion": {
+        "General": 109.0
+      }
+    }
+  },
+  {
+    "cod": "470010043501",
+    "nombre": "CLINICA LA MILAGROSA S.A",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "SANTA MARTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 13.0,
+        "Pediatrico": 1.0,
+        "Neonato": 5.0
+      },
+      "Intermedio": {
+        "Adulto": 4.0,
+        "Pediatrico": 1.0,
+        "Neonato": 4.0
+      },
+      "Hospitalizacion": {
+        "General": 125.0
+      },
+      "Observacion": {
+        "General": 32.0
+      }
+    }
+  },
+  {
+    "cod": "80010347301",
+    "nombre": "CLINICA LA VICTORIA S.A.S.",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 23.0
+      },
+      "Observacion": {
+        "General": 28.0
+      }
+    }
+  },
+  {
+    "cod": "200010053001",
+    "nombre": "CLINICA MEDICOS SA",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 89.0,
+        "Pediatrico": 16.0,
+        "Neonato": 15.0
+      },
+      "Intermedio": {
+        "Adulto": 22.0,
+        "Pediatrico": 16.0,
+        "Neonato": 10.0
+      },
+      "Hospitalizacion": {
+        "General": 242.0
+      },
+      "Observacion": {
+        "General": 113.0
+      }
+    }
+  },
+  {
+    "cod": "80010053101",
+    "nombre": "CLINICA MEDIESP S.A.S",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 28.0
+      },
+      "Observacion": {
+        "General": 4.0
+      }
+    }
+  },
+  {
+    "cod": "80010392601",
+    "nombre": "CLÍNICA MISERICORDIA",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 37.0,
+        "Pediatrico": 2.0,
+        "Neonato": 3.0
+      },
+      "Intermedio": {
+        "Adulto": 26.0,
+        "Pediatrico": 2.0,
+        "Neonato": 2.0
+      },
+      "Hospitalizacion": {
+        "General": 145.0
+      },
+      "Observacion": {
+        "General": 45.0
+      }
+    }
+  },
+  {
+    "cod": "80010283501",
+    "nombre": "CLINICA MURILLO - INVERCLINICAS  S.A.",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 9.0,
+        "Pediatrico": 1.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 9.0,
+        "Pediatrico": 1.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 69.0
+      },
+      "Observacion": {
+        "General": 14.0
+      }
+    }
+  },
+  {
+    "cod": "685470158401",
+    "nombre": "CLINICA PIEDECUESTA S.A.",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "PIEDECUESTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 57.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "85730080301",
+    "nombre": "CLINICA PORTOAZUL S.A SIGLA CPA",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "PUERTO COLOMBIA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 13.0,
+        "Pediatrico": 9.0,
+        "Neonato": 12.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 147.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "80010078901",
+    "nombre": "CLINICA REINA CATALINA S.A.S.",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 67.0,
+        "Pediatrico": 10.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 31.0,
+        "Pediatrico": 5.0,
+        "Neonato": 19.0
+      },
+      "Hospitalizacion": {
+        "General": 335.0
+      },
+      "Observacion": {
+        "General": 46.0
+      }
+    }
+  },
+  {
+    "cod": "130010224003",
+    "nombre": "CLINICA SAN FELIPE DE BARAJAS - PONTEZUELA",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 56.0
+      },
+      "Observacion": {
+        "General": 111.0
+      }
+    }
+  },
+  {
+    "cod": "680810151701",
+    "nombre": "CLINICA SAN JOSE S.A.S",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BARRANCABERMEJA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 12.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 36.0
+      },
+      "Observacion": {
+        "General": 30.0
+      }
+    }
+  },
+  {
+    "cod": "86380263001",
+    "nombre": "CLINICA SAN RAFEL ALTA COMPLEJIDAD S.A.S",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "SABANALARGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 12.0,
+        "Pediatrico": 4.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 11.0,
+        "Pediatrico": 4.0,
+        "Neonato": 12.0
+      },
+      "Hospitalizacion": {
+        "General": 86.0
+      },
+      "Observacion": {
+        "General": 30.0
+      }
+    }
+  },
+  {
+    "cod": "200010043801",
+    "nombre": "CLINICA VALLEDUPAR",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 13.0,
+        "Pediatrico": 0.0,
+        "Neonato": 13.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 10.0
+      },
+      "Hospitalizacion": {
+        "General": 75.0
+      },
+      "Observacion": {
+        "General": 56.0
+      }
+    }
+  },
+  {
+    "cod": "200130134603",
+    "nombre": "EMPRESA MULTIACTIVA DE SALUD",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "AGUSTÍN CODAZZI",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 2.0,
+        "Pediatrico": 3.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 32.0
+      },
+      "Observacion": {
+        "General": 22.0
+      }
+    }
+  },
+  {
+    "cod": "130010081501",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO CLINICA MATERNIDAD RAFAEL CALVO",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 80.0
+      },
+      "Observacion": {
+        "General": 7.0
+      }
+    }
+  },
+  {
+    "cod": "680810079701",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL REGONAL DEL MAGDALENA MEDIO",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BARRANCABERMEJA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 30.0
+      },
+      "Observacion": {
+        "General": 30.0
+      }
+    }
+  },
+  {
+    "cod": "682760071701",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN JUAN DE DIOS DE FLORIDABLANCA",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "FLORIDABLANCA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 1.37
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "130010178101",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL UNIVERSITARIO DEL CARIBE",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 20.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 15.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 120.0
+      },
+      "Observacion": {
+        "General": 80.0
+      }
+    }
+  },
+  {
+    "cod": "682760028901",
+    "nombre": "FUNDACION CARDIOVASCULAR DE COLOMBIA - INSTITUTO CARDIOVASCULAR FLORIDABLANCA",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "FLORIDABLANCA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 73.0,
+        "Pediatrico": 36.0,
+        "Neonato": 20.0
+      },
+      "Intermedio": {
+        "Adulto": 16.0,
+        "Pediatrico": 12.0,
+        "Neonato": 8.0
+      },
+      "Hospitalizacion": {
+        "General": 50.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "682760166601",
+    "nombre": "FUNDACION OFTALMOLOGICA DE SDER FOSCAL",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "FLORIDABLANCA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 66.0,
+        "Pediatrico": 5.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 4.0,
+        "Pediatrico": 1.0,
+        "Neonato": 1.0
+      },
+      "Hospitalizacion": {
+        "General": 100.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "471890013701",
+    "nombre": "FUNDACION POLICLINICA CIENAGA",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "CIÉNAGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 6.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 69.0
+      },
+      "Observacion": {
+        "General": 31.0
+      }
+    }
+  },
+  {
+    "cod": "130010202201",
+    "nombre": "FUNDACION UNIDAD DE CUIDADOS INTENSIVOS DOÑA PILAR",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 12.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 1.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "130010166701",
+    "nombre": "GESTION SALUD - AMBERES",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 20.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 16.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 110.0
+      },
+      "Observacion": {
+        "General": 62.0
+      }
+    }
+  },
+  {
+    "cod": "470010172201",
+    "nombre": "GESTION SALUD - SANTA MARTA",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "SANTA MARTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 2.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "130010118701",
+    "nombre": "HOSPITAL INFANTIL NAPOLEON FRANCO PAREJA",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 122.0
+      },
+      "Observacion": {
+        "General": 60.0
+      }
+    }
+  },
+  {
+    "cod": "685470494701",
+    "nombre": "HOSPITAL INTERNACIONAL DE COLOMBIA",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "PIEDECUESTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 65.0,
+        "Pediatrico": 10.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 3.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 100.0
+      },
+      "Observacion": {
+        "General": 15.0
+      }
+    }
+  },
+  {
+    "cod": "200010043101",
+    "nombre": "HOSPITAL ROSARIO PUMAREJO DE LOPEZ",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 12.0,
+        "Pediatrico": 0.0,
+        "Neonato": 13.0
+      },
+      "Intermedio": {
+        "Adulto": 4.0,
+        "Pediatrico": 0.0,
+        "Neonato": 7.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "471890024201",
+    "nombre": "HOSPITAL SAN CRISTÓBAL EMPRESA SOCIAL DEL ESTADO",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "CIÉNAGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.01
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "87580001301",
+    "nombre": "HOSPITAL UNIVERSIDAD DEL NORTE",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "SOLEDAD",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 2.35
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "680010079201",
+    "nombre": "HOSPITAL UNIVERSITARIO DE SANTANDER",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BUCARAMANGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 51.0,
+        "Pediatrico": 6.0,
+        "Neonato": 14.0
+      },
+      "Intermedio": {
+        "Adulto": 14.0,
+        "Pediatrico": 2.0,
+        "Neonato": 15.0
+      },
+      "Hospitalizacion": {
+        "General": 216.0
+      },
+      "Observacion": {
+        "General": 143.0
+      }
+    }
+  },
+  {
+    "cod": "470010065001",
+    "nombre": "HOSPITAL UNIVERSITARIO JULIO MENDEZ BARRENECHE",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "SANTA MARTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 38.0,
+        "Pediatrico": 3.0,
+        "Neonato": 9.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 1.0,
+        "Neonato": 8.0
+      },
+      "Hospitalizacion": {
+        "General": 127.0
+      },
+      "Observacion": {
+        "General": 39.0
+      }
+    }
+  },
+  {
+    "cod": "200010090101",
+    "nombre": "INSTITUTO CARDIOVASCULAR DEL CESAR S.A",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 14.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 11.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 103.0
+      },
+      "Observacion": {
+        "General": 16.0
+      }
+    }
+  },
+  {
+    "cod": "130010167501",
+    "nombre": "INTENSIVISTAS MRC IPS SA",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 0.03,
+        "Pediatrico": 0.0,
+        "Neonato": 16.0
+      },
+      "Hospitalizacion": {
+        "General": 18.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "470010090501",
+    "nombre": "INVERSIONES AZALUD S.A.S CLINICA BAHIA",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "SANTA MARTA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 12.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "80010032801",
+    "nombre": "IPS CLINICA SAN IGNACIO LTDA",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 2.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 2.0
+      },
+      "Hospitalizacion": {
+        "General": 15.0
+      },
+      "Observacion": {
+        "General": 30.0
+      }
+    }
+  },
+  {
+    "cod": "80010123201",
+    "nombre": "KATZWEINGORT Y CIA LTDA CLINICA LA MERCED",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 7.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 138.0
+      },
+      "Observacion": {
+        "General": 18.0
+      }
+    }
+  },
+  {
+    "cod": "80010445401",
+    "nombre": "MIRED BARRANQUILLA HOSPITAL GENERAL DE BARRANQUILLA",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 14.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 2.0
+      },
+      "Hospitalizacion": {
+        "General": 24.0
+      },
+      "Observacion": {
+        "General": 20.0
+      }
+    }
+  },
+  {
+    "cod": "200010284501",
+    "nombre": "NUEVA CLINICA ARENAS VALLEDUPAR SAS",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.77
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "80010003701",
+    "nombre": "ORGANIZACIÓN CLINICA GENERAL DEL NORTE S.A",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 84.0,
+        "Pediatrico": 11.0,
+        "Neonato": 16.0
+      },
+      "Intermedio": {
+        "Adulto": 28.0,
+        "Pediatrico": 5.0,
+        "Neonato": 4.0
+      },
+      "Hospitalizacion": {
+        "General": 359.0
+      },
+      "Observacion": {
+        "General": 63.0
+      }
+    }
+  },
+  {
+    "cod": "680810690601",
+    "nombre": "SALUD VITAL DE COLOMBIA IPS S.A.S BARRANCABERMEJA",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BARRANCABERMEJA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 11.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "130010214101",
+    "nombre": "SOCIEDAD SAN JOSE DE TORICES S.A",
+    "regional": "NORTE",
+    "zonal": "BOLIVAR",
+    "municipio": "CARTAGENA DE INDIAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 55.0
+      },
+      "Observacion": {
+        "General": 26.0
+      }
+    }
+  },
+  {
+    "cod": "680810342101",
+    "nombre": "UNIDAD CLINICA SAN NICOLAS LIMITADA",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BARRANCABERMEJA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 34.0
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "680810142101",
+    "nombre": "UNIDAD CLINICA LA MAGDALENA S.A.S",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BARRANCABERMEJA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 32.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "680010144301",
+    "nombre": "ASOCIACION NIÑOS DE PAPEL - BUCARAMANGA",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BUCARAMANGA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 62.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "200130167803",
+    "nombre": "CENTRO DE REHABILITACIÓN INTEGRAL NUEVO AMANECER LST SEDE ESPERANZA",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "AGUSTÍN CODAZZI",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 60.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "200010228901",
+    "nombre": "CLINICA DE URGENCIAS DE SALUD MENTAL SAN LUCAS",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 8.0
+      },
+      "Observacion": {
+        "General": 14.0
+      }
+    }
+  },
+  {
+    "cod": "200010162601",
+    "nombre": "CLINICA SION",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 140.0
+      },
+      "Observacion": {
+        "General": 9.0
+      }
+    }
+  },
+  {
+    "cod": "680010070201",
+    "nombre": "ESE HOSPITAL PSIQUIÁTRICO SAN CAMILO",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BUCARAMANGA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 262.0
+      },
+      "Observacion": {
+        "General": 20.0
+      }
+    }
+  },
+  {
+    "cod": "472880273501",
+    "nombre": "FUNDACION ARRECIFES",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "FUNDACIÓN",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 13.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "50790966902",
+    "nombre": "FUNDACIÓN LA LUZ - CENTRO NACIONAL PARA EL TRATAMIENTO DE LA DROGADICCIÓN-BARBOSA",
+    "regional": "NORTE",
+    "zonal": "PORTABILIDAD",
+    "municipio": "BARBOSA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 19.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "680810070202",
+    "nombre": "HOSPITAL PSIQUIATRICO SAN CAMILO  SEDE BARRANCABERMEJA",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BARRANCABERMEJA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 25.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "470010057701",
+    "nombre": "INSTITUTO NEUROPSIQUIATRICO NUESTRA SEÑORA DEL CARMEN INSECAR",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "SANTA MARTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 45.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "470010144306",
+    "nombre": "UNIDAD DE ATENCION INTEGRAL SEMBRANDO ESPERANZA SEDE 5",
+    "regional": "NORTE",
+    "zonal": "MAGDALENA",
+    "municipio": "SANTA MARTA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 18.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "200110198401",
+    "nombre": "UNIDAD PRESTADORA DE SERVICIOS DE SALUD MENTAL LTDA",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "AGUACHICA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 17.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "200110198403",
+    "nombre": "UNIDAD PRESTADORA DE SERVICIOS DE SALUD MENTAL  UNIPSSAM SAS",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 135.0
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "200010190001",
+    "nombre": "FUNDACION PROYECTO HOMBRE DE BIEN",
+    "regional": "NORTE",
+    "zonal": "CESAR",
+    "municipio": "VALLEDUPAR",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 255.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "680810070201",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL PSIQUIÁTRICO SAN CAMILO",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BARRANCABERMEJA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 32.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "138360056101",
+    "nombre": "ASOCIACION NIÑOS DE PAPEL",
+    "regional": "NORTE",
+    "zonal": "SANTANDER",
+    "municipio": "BUCARAMANGA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.0
+      },
+      "Observacion": {
+        "General": 6.0
+      }
+    }
+  },
+  {
+    "cod": "80010134401",
+    "nombre": "CLINICA ALTOS DE SAN VICENTE S.A.S.",
+    "regional": "NORTE",
+    "zonal": "ATLANTICO",
+    "municipio": "BARRANQUILLA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "170010081707",
+    "nombre": "ASSBASALUD ESE CENTRO DE ATENCIÓN AMBULATORIO PILOTO",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 7.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "760010111116",
+    "nombre": "CENTRO MEDICO IMBANACO DE CALI SEDE 16",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CALI",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 11.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "730010094401",
+    "nombre": "CLINICA  IBAGUE S.A.",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 24.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "730010082601",
+    "nombre": "CLINICA ASOTRAUMA S.A.S.",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "630010074201",
+    "nombre": "CLINICA AVIDANTI Armenia SAS",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "ARMENIA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 15.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "730010090901",
+    "nombre": "CLINICA AVIDANTI IBAGUÉ",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 45.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 140.0
+      },
+      "Observacion": {
+        "General": 50.0
+      }
+    }
+  },
+  {
+    "cod": "170010164601",
+    "nombre": "CLÍNICA AVIDANTI MANIZALES",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 37.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 238.0
+      },
+      "Observacion": {
+        "General": 47.0
+      }
+    }
+  },
+  {
+    "cod": "410010121401",
+    "nombre": "CLINICA BELO HORIZONTE LTDA",
+    "regional": "SUR",
+    "zonal": "HUILA",
+    "municipio": "NEIVA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "630010141901",
+    "nombre": "CLINICA CENTRAL DEL QUINDIO SAS",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "ARMENIA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.0
+      },
+      "Observacion": {
+        "General": 15.0
+      }
+    }
+  },
+  {
+    "cod": "730010242401",
+    "nombre": "CLINICA COLSANITAS S.A KERALTY IBAGUE",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.33,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.03,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.3
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "660010021710",
+    "nombre": "CLINICA COMFAMILIAR",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "PEREIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 19.0,
+        "Pediatrico": 5.0,
+        "Neonato": 4.0
+      },
+      "Intermedio": {
+        "Adulto": 12.0,
+        "Pediatrico": 5.0,
+        "Neonato": 6.0
+      },
+      "Hospitalizacion": {
+        "General": 105.0
+      },
+      "Observacion": {
+        "General": 26.0
+      }
+    }
+  },
+  {
+    "cod": "760010306601",
+    "nombre": "CLINICA DE OCCIDENTE",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CALI",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 51.0,
+        "Pediatrico": 4.0,
+        "Neonato": 12.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 4.0,
+        "Neonato": 8.0
+      },
+      "Hospitalizacion": {
+        "General": 156.0
+      },
+      "Observacion": {
+        "General": 55.0
+      }
+    }
+  },
+  {
+    "cod": "520010082901",
+    "nombre": "CLINICA DE ORTOPEDIA Y FRACTURAS TRAUMEDICAL SAS",
+    "regional": "SUR",
+    "zonal": "NARIÑO",
+    "municipio": "PASTO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 20.0
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "760010576501",
+    "nombre": "CLINICA FARALLONES S.A.",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CALI",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 27.0,
+        "Pediatrico": 0.0,
+        "Neonato": 9.0
+      },
+      "Intermedio": {
+        "Adulto": 13.0,
+        "Pediatrico": 0.0,
+        "Neonato": 7.0
+      },
+      "Hospitalizacion": {
+        "General": 112.0
+      },
+      "Observacion": {
+        "General": 47.0
+      }
+    }
+  },
+  {
+    "cod": "730010241701",
+    "nombre": "CLINICA INTERNACIONAL DE ALTA TECNOLOGIA S.A.S.",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 4.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 4.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 20.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "630010174101",
+    "nombre": "CLINICA LA SAGRADA FAMILIA S.A.S",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "ARMENIA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 47.0,
+        "Pediatrico": 0.0,
+        "Neonato": 13.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 10.0
+      },
+      "Hospitalizacion": {
+        "General": 226.0
+      },
+      "Observacion": {
+        "General": 94.0
+      }
+    }
+  },
+  {
+    "cod": "768340652703",
+    "nombre": "CLINICA MARIANGEL DUMIAN MEDICAL",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "TULUA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 21.0,
+        "Pediatrico": 4.0,
+        "Neonato": 6.0
+      },
+      "Intermedio": {
+        "Adulto": 16.0,
+        "Pediatrico": 1.0,
+        "Neonato": 4.0
+      },
+      "Hospitalizacion": {
+        "General": 156.0
+      },
+      "Observacion": {
+        "General": 53.0
+      }
+    }
+  },
+  {
+    "cod": "660010341401",
+    "nombre": "CLINICA MEDICA TURIN S.A.S",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "PEREIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 1.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "410010038501",
+    "nombre": "CLINICA MEDILASER S.A. NEIVA",
+    "regional": "SUR",
+    "zonal": "HUILA",
+    "municipio": "NEIVA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 41.0,
+        "Pediatrico": 12.0,
+        "Neonato": 13.0
+      },
+      "Intermedio": {
+        "Adulto": 12.0,
+        "Pediatrico": 5.0,
+        "Neonato": 5.0
+      },
+      "Hospitalizacion": {
+        "General": 288.0
+      },
+      "Observacion": {
+        "General": 69.0
+      }
+    }
+  },
+  {
+    "cod": "730010217401",
+    "nombre": "CLINICA NUESTRA SEDE IBAGUE",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 76.0
+      },
+      "Observacion": {
+        "General": 30.0
+      }
+    }
+  },
+  {
+    "cod": "170010048801",
+    "nombre": "CLÍNICA OSPEDALE MANIZALES S.A",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 9.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "170010059301",
+    "nombre": "CLINICA PSIQUIATRICA SAN JUAN DE DIOS",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 4.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "768340575101",
+    "nombre": "CLINICA SAN FRANCISCO S.A.",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "TULUA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 12.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 61.0
+      },
+      "Observacion": {
+        "General": 28.0
+      }
+    }
+  },
+  {
+    "cod": "630010175503",
+    "nombre": "CLINICA SAN RAFAEL ARMENIA",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "ARMENIA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.04,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.05,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.04
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "660010158701",
+    "nombre": "CLINICA SAN RAFAEL SEDE CUBA",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "PEREIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "666820078701",
+    "nombre": "CLÍNICA SANTA CLARA SAS",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "SANTA ROSA DE CABAL",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.33
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "410010057201",
+    "nombre": "CLINICA UROS S.A.S - TORRE A",
+    "regional": "SUR",
+    "zonal": "HUILA",
+    "municipio": "NEIVA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 34.0,
+        "Pediatrico": 5.0,
+        "Neonato": 18.0
+      },
+      "Intermedio": {
+        "Adulto": 14.0,
+        "Pediatrico": 2.0,
+        "Neonato": 12.0
+      },
+      "Hospitalizacion": {
+        "General": 172.0
+      },
+      "Observacion": {
+        "General": 80.0
+      }
+    }
+  },
+  {
+    "cod": "520010033601",
+    "nombre": "E.S.E. HOSPITAL DEPARTAMENTAL DE NARIÑO",
+    "regional": "SUR",
+    "zonal": "NARIÑO",
+    "municipio": "PASTO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 20.0,
+        "Pediatrico": 0.0,
+        "Neonato": 7.0
+      },
+      "Intermedio": {
+        "Adulto": 17.0,
+        "Pediatrico": 0.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 173.0
+      },
+      "Observacion": {
+        "General": 101.0
+      }
+    }
+  },
+  {
+    "cod": "760010395401",
+    "nombre": "E.S.E. HOSPITAL DEPARTAMENTAL MARIO CORREA RENGIFO",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CALI",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 5.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "768340465201",
+    "nombre": "E.S.E. HOSPITAL DEPÀRTAMENTAL TOMAS URIBE URIBE DE TULUA ESE EMPRESA SOCIAL DEL ESTADO",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "TULUA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 53.0,
+        "Pediatrico": 8.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 4.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 144.0
+      },
+      "Observacion": {
+        "General": 125.0
+      }
+    }
+  },
+  {
+    "cod": "664000071601",
+    "nombre": "E.S.E. HOSPITAL SAN PEDRO Y SAN PABLO LA VIRGINIA",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "LA VIRGINIA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.04
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "760010379901",
+    "nombre": "E.S.E. HOSPITAL UNIVERSITARIO DEL VALLE EVARISTO GARCIA EMPRESA SOCIAL DEL ESTADO",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CALI",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 77.0,
+        "Pediatrico": 8.0,
+        "Neonato": 19.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 2.0,
+        "Neonato": 24.0
+      },
+      "Hospitalizacion": {
+        "General": 349.0
+      },
+      "Observacion": {
+        "General": 121.0
+      }
+    }
+  },
+  {
+    "cod": "410010056201",
+    "nombre": "E.S.E. HOSPITAL UNIVERSITARIO HERNANDO MONCALEANO PERDOMO DE NEIVA",
+    "regional": "SUR",
+    "zonal": "HUILA",
+    "municipio": "NEIVA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 38.0,
+        "Pediatrico": 9.0,
+        "Neonato": 12.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 2.0,
+        "Neonato": 4.0
+      },
+      "Hospitalizacion": {
+        "General": 150.0
+      },
+      "Observacion": {
+        "General": 139.0
+      }
+    }
+  },
+  {
+    "cod": "630010035401",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL DEPARTAMENTAL UNIVERSITARIO DEL QUINDIO SAN JUAN DE DIOS",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "ARMENIA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 17.0,
+        "Pediatrico": 0.0,
+        "Neonato": 4.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 0.0,
+        "Neonato": 4.0
+      },
+      "Hospitalizacion": {
+        "General": 254.0
+      },
+      "Observacion": {
+        "General": 47.0
+      }
+    }
+  },
+  {
+    "cod": "666820069601",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN VICENTE DE PAUL SANTA ROSA DE CABAL",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "SANTA ROSA DE CABAL",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 15.0
+      },
+      "Observacion": {
+        "General": 12.0
+      }
+    }
+  },
+  {
+    "cod": "661700027801",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SANTA MONICA",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "DOSQUEBRADAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 88.0
+      },
+      "Observacion": {
+        "General": 19.0
+      }
+    }
+  },
+  {
+    "cod": "660010076201",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL UNIVERSITARIO SAN JORGE",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "PEREIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 26.0,
+        "Pediatrico": 5.0,
+        "Neonato": 13.0
+      },
+      "Intermedio": {
+        "Adulto": 11.0,
+        "Pediatrico": 3.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 193.0
+      },
+      "Observacion": {
+        "General": 138.0
+      }
+    }
+  },
+  {
+    "cod": "520010145723",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO PASTO SALUD E.S.E. HOSPITAL LA ROSA",
+    "regional": "SUR",
+    "zonal": "NARIÑO",
+    "municipio": "PASTO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.6
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "660010033201",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO SALUD PEREIRA HOSPITAL DE KENNEDY",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "PEREIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 10.02
+      }
+    }
+  },
+  {
+    "cod": "173800051901",
+    "nombre": "ESE HOSPITAL SAN FELIX",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "LA DORADA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 4.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 20.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "760010254101",
+    "nombre": "FUNDACION CLINICA INFANTIL CLUB NOEL",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CALI",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 2.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "520010055701",
+    "nombre": "FUNDACION HOSPITAL SAN PEDRO",
+    "regional": "SUR",
+    "zonal": "NARIÑO",
+    "municipio": "PASTO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 32.0,
+        "Pediatrico": 0.0,
+        "Neonato": 4.0
+      },
+      "Intermedio": {
+        "Adulto": 28.0,
+        "Pediatrico": 0.0,
+        "Neonato": 8.0
+      },
+      "Hospitalizacion": {
+        "General": 129.0
+      },
+      "Observacion": {
+        "General": 65.0
+      }
+    }
+  },
+  {
+    "cod": "761110349501",
+    "nombre": "FUNDACION SAN JOSE DE BUGA",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "GUADALAJARA DE BUGA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 3.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "760010287001",
+    "nombre": "FUNDACION VALLE DEL LILI",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CALI",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 87.0,
+        "Pediatrico": 39.0,
+        "Neonato": 30.0
+      },
+      "Intermedio": {
+        "Adulto": 41.0,
+        "Pediatrico": 1.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 394.0
+      },
+      "Observacion": {
+        "General": 65.0
+      }
+    }
+  },
+  {
+    "cod": "765201249201",
+    "nombre": "GYO MEDICAL IPS SAS SEDE PALMIRA",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "PALMIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "520010111401",
+    "nombre": "HNAS. HOSPITALARIAS DEL SAGDO. CORAZON DE JESUS HOSPITAL MENTAL NUESTRA SRA. DEL PERPETUO SOCORRO",
+    "regional": "SUR",
+    "zonal": "NARIÑO",
+    "municipio": "PASTO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 20.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "173800329501",
+    "nombre": "HOSPITAL DE ALTA COMPLEJIDAD DEL MAGDALENA CENTRO S.A.S",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "LA DORADA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 14.0,
+        "Pediatrico": 5.0,
+        "Neonato": 9.0
+      },
+      "Intermedio": {
+        "Adulto": 4.0,
+        "Pediatrico": 4.0,
+        "Neonato": 9.0
+      },
+      "Hospitalizacion": {
+        "General": 120.0
+      },
+      "Observacion": {
+        "General": 20.0
+      }
+    }
+  },
+  {
+    "cod": "730010104701",
+    "nombre": "HOSPITAL FEDERICO LLERAS ACOSTA E.S.E.",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 53.0,
+        "Pediatrico": 8.0,
+        "Neonato": 27.0
+      },
+      "Intermedio": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 13.0
+      },
+      "Hospitalizacion": {
+        "General": 222.0
+      },
+      "Observacion": {
+        "General": 80.0
+      }
+    }
+  },
+  {
+    "cod": "170010087101",
+    "nombre": "HOSPITAL GENERAL SAN ISIDRO EMPRESA SOCIAL DEL ESTADO",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 1.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "520010028301",
+    "nombre": "HOSPITAL INFANTIL LOS ANGELES",
+    "regional": "SUR",
+    "zonal": "NARIÑO",
+    "municipio": "PASTO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.1,
+        "Pediatrico": 12.0,
+        "Neonato": 7.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 4.0,
+        "Neonato": 5.0
+      },
+      "Hospitalizacion": {
+        "General": 90.0
+      },
+      "Observacion": {
+        "General": 27.0
+      }
+    }
+  },
+  {
+    "cod": "765200302949",
+    "nombre": "HOSPITAL RAUL OREJUELA BUENO E.S.E - SEDE SAN VICENTE",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "PALMIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 91.0
+      },
+      "Observacion": {
+        "General": 30.0
+      }
+    }
+  },
+  {
+    "cod": "733490092601",
+    "nombre": "HOSPITAL SAN JUAN DE DIOS HONDA EMPRESA SOCIAL DEL ESTADO - (733490092601)",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "HONDA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.03,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.08,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.23
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "732680079401",
+    "nombre": "HOSPITAL SAN RAFAEL DE EL ESPINAL EMPRESA SOCIAL DEL ESTADO E.S.E.",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "ESPINAL",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 138.0
+      },
+      "Observacion": {
+        "General": 40.0
+      }
+    }
+  },
+  {
+    "cod": "520010009601",
+    "nombre": "HOSPITAL SAN RAFAEL DE PASTO",
+    "regional": "SUR",
+    "zonal": "NARIÑO",
+    "municipio": "PASTO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "761471347001",
+    "nombre": "HOSPITAL UNIVERSITARIO DEL VALLE \"EVARISTO GARCÍA\" E.S.E. SEDE CARTAGO",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CARTAGO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 11.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "760011564701",
+    "nombre": "INVERSIONES EN SALUD DEL VALLE SAS CLINICA CALI",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CALI",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 3.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 11.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "761470067210",
+    "nombre": "IPS DEL MUNICIPIO DE CARTAGO E.S.E. GUADALUPE",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CARTAGO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 7.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "730010096604",
+    "nombre": "MEDICADIZ S.A.S",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 16.0,
+        "Pediatrico": 10.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 11.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 132.0
+      },
+      "Observacion": {
+        "General": 50.0
+      }
+    }
+  },
+  {
+    "cod": "170010192001",
+    "nombre": "MEINTEGRAL - MANIZALES",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 8.0,
+        "Neonato": 3.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 1.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 28.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "630010082302",
+    "nombre": "ONCOLOGOS DEL OCCIDENTE S.A.S. ARMENIA",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "ARMENIA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 6.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 7.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 63.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "170010109601",
+    "nombre": "ONCOLOGOS DEL OCCIDENTE S.A.S. MANIZALES",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 10.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 2.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 102.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "660010066301",
+    "nombre": "ONCOLOGOS DEL OCCIDENTE S.A.S. PEREIRA",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "PEREIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 4.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 64.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "170010002601",
+    "nombre": "SEDE HOSPITAL INFANTIL UNIVERSITARIO",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 11.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "170010010301",
+    "nombre": "SERVICIOS ESPECIALES DE SALUD",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 38.0,
+        "Pediatrico": 0.0,
+        "Neonato": 6.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 0.0,
+        "Neonato": 8.0
+      },
+      "Hospitalizacion": {
+        "General": 111.0
+      },
+      "Observacion": {
+        "General": 46.0
+      }
+    }
+  },
+  {
+    "cod": "410010052101",
+    "nombre": "SOCIEDAD CLINICA EMCOSALUD S.A.",
+    "regional": "SUR",
+    "zonal": "HUILA",
+    "municipio": "NEIVA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 3.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "730010105001",
+    "nombre": "SOCIEDAD MÉDICOQUIRÚRGICA DEL TOLIMA SOCIEDAD ANÓNIMA Y/O CLÍNICA TOLIMA S.A.",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 22.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 94.0
+      },
+      "Observacion": {
+        "General": 20.0
+      }
+    }
+  },
+  {
+    "cod": "661700159203",
+    "nombre": "UCIMED S.A HOSPITAL SANTA MONICA",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "DOSQUEBRADAS",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 14.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 0.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "730010174201",
+    "nombre": "UNIDAD MATERNO INFANTIL DEL TOLIMA S.A. - (730010174201)",
+    "regional": "SUR",
+    "zonal": "TOLIMA",
+    "municipio": "IBAGUÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 8.0,
+        "Pediatrico": 2.0,
+        "Neonato": 10.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 1.0,
+        "Neonato": 24.0
+      },
+      "Hospitalizacion": {
+        "General": 17.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "630010023401",
+    "nombre": "RED SALUD Armenia E.S.E",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "ARMENIA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  },
+  {
+    "cod": "660010036101",
+    "nombre": "CLINICA LOS ROSALES S.A",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "PEREIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 18.0,
+        "Pediatrico": 3.0,
+        "Neonato": 4.0
+      },
+      "Intermedio": {
+        "Adulto": 15.0,
+        "Pediatrico": 2.0,
+        "Neonato": 6.0
+      },
+      "Hospitalizacion": {
+        "General": 152.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "660010074701",
+    "nombre": "ESE HOSPITAL MENTALUNIVERSITARIO DE RISARALDA",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "PEREIRA",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 1.03
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "170010194901",
+    "nombre": "FUNDACION FUNPAZ",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "MANIZALES",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 52.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "520010234501",
+    "nombre": "CENTRO DE CUIDADOS CARDIONEUROVASCULARES PABON SAS",
+    "regional": "SUR",
+    "zonal": "NARIÑO",
+    "municipio": "PASTO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 45.0,
+        "Pediatrico": 10.0,
+        "Neonato": 8.0
+      },
+      "Intermedio": {
+        "Adulto": 10.0,
+        "Pediatrico": 10.0,
+        "Neonato": 5.0
+      },
+      "Hospitalizacion": {
+        "General": 38.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "520010192301",
+    "nombre": "CORPORACIÓN PARA LA SALUD INTEGRAL S.A.S. - CORPOSALUD S.A.S.",
+    "regional": "SUR",
+    "zonal": "NARIÑO",
+    "municipio": "PASTO",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 8.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 1.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 69.0
+      },
+      "Observacion": {
+        "General": 8.0
+      }
+    }
+  },
+  {
+    "cod": "760010360901",
+    "nombre": "E.S.E. HOSPITAL DEPARTAMENTAL PSIQUIATRICO UNIVERSITARIO DEL VALLE",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "CALI",
+    "ambito": "4. SALUD MENTAL",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 264.0
+      },
+      "Observacion": {
+        "General": 9.0
+      }
+    }
+  },
+  {
+    "cod": "765200939701",
+    "nombre": "CHRISTUS SINERGIA CLINICA PALMA REAL S.A.S.",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "PALMIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 14.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 5.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 73.0
+      },
+      "Observacion": {
+        "General": 34.0
+      }
+    }
+  },
+  {
+    "cod": "765200227301",
+    "nombre": "CLINICA PALMIRA S.A.",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "PALMIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 14.0,
+        "Pediatrico": 0.0,
+        "Neonato": 5.0
+      },
+      "Intermedio": {
+        "Adulto": 4.0,
+        "Pediatrico": 0.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 57.0
+      },
+      "Observacion": {
+        "General": 27.0
+      }
+    }
+  },
+  {
+    "cod": "763640379501",
+    "nombre": "E.S.E. HOSPITAL PILOTO JAMUNDI EMPRESA SOCIAL DEL ESTADO",
+    "regional": "SUR",
+    "zonal": "VALLE",
+    "municipio": "JAMUNDÍ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 0.0
+      }
+    }
+  },
+  {
+    "cod": "257360001701",
+    "nombre": "EMPRESA SOCIAL DEL ESTADO HOSPITAL SAN ANTONIO",
+    "regional": "CENTRO",
+    "zonal": "SABANA NORTE",
+    "municipio": "SESQUILÉ",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "CLAUDIA PALOMINO ARROYAVE",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 0.0,
+        "Pediatrico": 0.0,
+        "Neonato": 0.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 11.0
+      }
+    }
+  },
+  {
+    "cod": "660010314401",
+    "nombre": "CLINICA LOS NEVADOS S.A.S",
+    "regional": "SUR",
+    "zonal": "EJE CAFETERO",
+    "municipio": "PEREIRA",
+    "ambito": "1. HOSPITALIZACION",
+    "lider": "NANCY NATALIA MEDINA ACOSTA",
+    "camasHabilitadas": {
+      "UCI": {
+        "Adulto": 0.0,
+        "Pediatrico": 5.0,
+        "Neonato": 0.0
+      },
+      "Intermedio": {
+        "Adulto": 3.0,
+        "Pediatrico": 3.0,
+        "Neonato": 3.0
+      },
+      "Hospitalizacion": {
+        "General": 10.0
+      },
+      "Observacion": {
+        "General": 10.0
+      }
+    }
+  }
+]
